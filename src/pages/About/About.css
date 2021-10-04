@@ -1,3 +1,4 @@
+/* every page's banner area style */
 .about-body .about-banner,
 .courses-banner,
 .contact-banner, .notfound-banner {
@@ -49,6 +50,7 @@
     padding: 15px 35px;
 }
 
+/* all the h1 style of the page  */
 .intro h1,
 .team h1,
 .partners h1,
