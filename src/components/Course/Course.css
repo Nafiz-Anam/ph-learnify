@@ -1,0 +1,43 @@
+.course-card {
+    border: solid 1px rgb(201, 201, 201);
+    margin: 15px 0;
+    border-radius: 5px;
+}
+.card-title {
+    font-size: 20px;
+    font-weight: 700;
+}
+.card-body p {
+    padding: 0;
+}
+
+.card-body h5 {
+    color: gray;
+    font-size: 15px;
+}
+
+.card-body h6 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #24a88e;
+}
+
+.course-btn {
+    background-color: #8710d8;
+    color: white;
+    padding: 8px 25px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.star {
+    color: rgb(231, 204, 48);
+}
+
+.btn2 {
+    background-color: white;
+    border: 1px solid #8710d8;
+    color: black;
+}
+
+

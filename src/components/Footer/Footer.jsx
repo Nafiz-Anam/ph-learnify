@@ -19,6 +19,14 @@ const Footer = () => {
                     <div className="col-lg-3">
                         <h1>Newsletter Signup</h1>
                         <p>Enter your email address to get latest updates and offers from us.</p>
+                        <div className="form">
+                            <form className='footer-form'>
+                                <div>
+                                    <input type="email" placeholder='Email Address' className="form-control footer-input" id="email"  />
+                                </div>
+                                <button className="btn footer-btn">Subscribe</button>
+                            </form>
+                        </div>
                     </div>
                     <div className="col-lg-3">
                         <h1>Our Courses</h1>

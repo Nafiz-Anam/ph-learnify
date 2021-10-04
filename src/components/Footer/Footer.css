@@ -16,10 +16,24 @@
     padding-left: 0 !important;
 }
 
-.footer-body i{
-    color: #24A88E;
+.footer-body i {
+    color: #24a88e;
 }
 
-.footer-body .contact i{
-    padding-right: 15px!important;
+.footer-body .contact i {
+    padding-right: 15px !important;
+}
+
+.footer-form{
+    display: flex;
+    margin-top: 25px;
+}
+
+.footer-input {
+    width: 180px;
+}
+
+.footer-btn{
+    background-color: #8710D8;
+    color: white;
 }

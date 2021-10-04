@@ -12,12 +12,20 @@ const Navbar = () => {
                 <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse menu" id="navbarSupportedContent">
-                    <ul className="navbar-nav">
+                    <ul className="navbar-nav align-items-center">
                         <li className="nav-item"><NavLink to='./home'>Home</NavLink></li>
                         <li className="nav-item"><NavLink to='./about'>About</NavLink></li>
                         <li className="nav-item"><NavLink to='./courses'>Courses</NavLink></li>
                         <li className="nav-item"><NavLink to='./contact'>Contact Us</NavLink></li>
+                        <li>
+                            <div>
+                                <button className='btn login-btn m-1'>LogIn</button>
+                                <button className='btn signup-btn m-1'>SignUp</button>
+                            </div>
+                        </li>
                     </ul>
+                    
+                    
                 </div>
                 <div className='d-flex phone'>
                     <i className="fas fa-phone-volume"></i>

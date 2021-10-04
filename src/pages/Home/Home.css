@@ -10,9 +10,80 @@
     font-weight: 700;
 }
 
-.banner button{
+.home-icon {
+    font-size: 55px;
+    padding-top: 50px;
+    color: #8710d8;
+}
+
+.banner button {
     padding: 15px 35px;
     font-size: 1.5em;
     color: white;
     font-weight: 500;
+}
+
+.course-h1 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.feed-box {
+    justify-content: center;
+}
+
+.feed-img {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.feedback h1 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.feedback .card {
+    width: 30%;
+    border: none;
+}
+.feedback .card-body p {
+    font-size: 20px;
+}
+
+.newsletter {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(127, 255, 212, 0.486);
+}
+
+.newsletter form {
+    display: flex;
+    justify-content: center;
+}
+
+.newsletter h1 {
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 3em;
+}
+.newsletter p {
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.form-btn {
+    background-color: #8710d8;
+    color: white;
+    padding: 8px 35px;
+    font-size: 18px;
+}
+
+.home-input {
+    height: 45px;
+    width: 400px;
 }

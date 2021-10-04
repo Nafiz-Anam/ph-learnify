@@ -26,10 +26,10 @@ const Header = () => {
                 </div>
                 <div className="col-lg-5">
                     <ul className='d-flex social'>
-                        <li><i class="fab fa-facebook-f"></i></li>
-                        <li><i class="fab fa-instagram"></i></li>
-                        <li><i class="fab fa-twitter"></i></li>
-                        <li><i class="fab fa-linkedin-in"></i></li>
+                        <li><i className="fab fa-facebook-f"></i></li>
+                        <li><i className="fab fa-instagram"></i></li>
+                        <li><i className="fab fa-twitter"></i></li>
+                        <li><i className="fab fa-linkedin-in"></i></li>
                     </ul>
                 </div>
             </div>

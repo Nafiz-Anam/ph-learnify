@@ -1,16 +1,112 @@
-.about-body .about-banner, .courses-banner, .contact-banner{
+.about-body .about-banner,
+.courses-banner,
+.contact-banner, .notfound-banner {
     height: 400px;
     display: flex;
     align-items: center;
+    background-color: rgba(127, 255, 212, 0.486);
 }
 
-.page-heading{
+.page-heading {
     font-size: 3em;
     font-weight: 700;
     text-transform: capitalize;
 }
 
-.page-sub{
+.page-sub {
     text-transform: capitalize;
     width: 50%;
 }
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    width: 23%;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mission {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #C1FFEA;
+}
+
+.mission-btn{
+    background-color: #8710d8;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+.intro h1,
+.team h1,
+.partners h1,
+.mission h1 {
+    font-size: 3em;
+    text-transform: capitalize;
+    font-weight: 700;
+    padding-bottom: 45px;
+}
+
+.overlap {
+    display: flex;
+    justify-content: center;
+    margin-top: -200px;
+    margin-bottom: 200px;
+}
+
+.about-p {
+    font-size: 25px;
+    padding: 0 150px;
+}
+
+.about-btn {
+    background-color: #8710d8;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 35px;
+    padding: 25px 55px;
+}
+
+.overlap .content {
+    width: 20%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.card {
+    border: none;
+}
+
+.team-img {
+    border-radius: 50%;
+    width: 70%;
+}
+.team-img {
+    display: flex;
+    justify-content: center;
+}
+
+.team-social li{
+    padding-left: 0;
+}
+
+.card-footer ul{
+    padding: 0;
+    justify-content: space-evenly;
+    margin: 0;
+}
+
