@@ -1,4 +1,6 @@
-# Hire Rock Bands
+# Learnify
+
+##Solution to your Programming Journey
 
 Live website link here : [Live link](https://ph-learnify.netlify.app/)
 
