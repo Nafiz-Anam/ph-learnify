@@ -10,7 +10,7 @@ const Footer = () => {
                     <div className="col-lg-3">
                         <h1>Learnify</h1>
                         <p>
-                            THe one and only platform that updates and ensures
+                            The one and only platform that updates and ensures
                             the lessons quality very frequently. The best
                             platform to guide you to a better future.
                         </p>
