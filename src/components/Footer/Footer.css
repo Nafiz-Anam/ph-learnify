@@ -24,7 +24,7 @@
     padding-right: 15px !important;
 }
 
-.footer-form{
+.footer-form {
     display: flex;
     margin-top: 25px;
 }
@@ -33,7 +33,7 @@
     width: 180px;
 }
 
-.footer-btn{
-    background-color: #8710D8;
+.footer-btn {
+    background-color: #8710d8;
     color: white;
 }

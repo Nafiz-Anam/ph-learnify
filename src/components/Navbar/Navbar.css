@@ -8,7 +8,7 @@
 }
 
 span {
-    color: #24A88E;
+    color: #24a88e;
     font-size: 55px;
 }
 
@@ -19,33 +19,33 @@ ul li a {
     font-weight: 600;
 }
 
-ul li a:hover{
-    color: #24A88E;
+ul li a:hover {
+    color: #24a88e;
 }
 
-.login-btn{
-    background-color: #8710D8;
+.login-btn {
+    background-color: #8710d8;
     color: white;
 }
 
-.signup-btn{
+.signup-btn {
     color: white;
-    background-color: #24A88E;
+    background-color: #24a88e;
 }
 
-p{
+p {
     margin: 0;
 }
 
-.phone{
+.phone {
     align-items: center;
 }
 
-.phone i{
+.phone i {
     font-size: 55px;
-    color: #24A88E;
+    color: #24a88e;
 }
 
-.phone h3{
+.phone h3 {
     font-weight: 600;
 }
