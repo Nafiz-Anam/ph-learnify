@@ -17,7 +17,7 @@ const Notfound = () => {
                 <div className="notfound-form pt-5">
                     <form className='d-flex justify-content-center'>
                         <div>
-                            <input type="email" placeholder='Enter your search' className="form-control notfound-input" id="email"  />
+                            <input type="text" placeholder='Enter your search' className="form-control notfound-input" id="search"  />
                         </div>
                         <button className="btn notfound-btn">Send</button>
                     </form>
