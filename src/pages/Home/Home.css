@@ -1,0 +1,18 @@
+.banner {
+    height: 750px;
+    display: flex;
+    align-items: center;
+}
+
+.banner h1 {
+    font-size: 5em;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.banner button{
+    padding: 15px 35px;
+    font-size: 1.5em;
+    color: white;
+    font-weight: 500;
+}

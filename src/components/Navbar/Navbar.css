@@ -1,0 +1,41 @@
+.navbar-brand {
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.menu {
+    justify-content: space-around;
+}
+
+span {
+    color: #24A88E;
+    font-size: 55px;
+}
+
+ul li a {
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+ul li a:hover{
+    color: #24A88E;
+}
+
+p{
+    margin: 0;
+}
+
+.phone{
+    align-items: center;
+}
+
+.phone i{
+    font-size: 55px;
+    color: #24A88E;
+}
+
+.phone h3{
+    font-weight: 600;
+}
